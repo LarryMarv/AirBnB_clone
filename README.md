@@ -112,5 +112,4 @@ $
 
 ## Contributors
 * The following people contributed to this repository.
-1. Hillary Awanga <hillarymarvince@gmail.com>
-2. Alukwe Jones Terah <jtalukwe@kabarak.ac.ke># AirBnB_clone
+1. Hillary Awanga <hillarymarvince@gmail.com># AirBnB_clone
